@@ -1,3 +1,4 @@
 # Calculator
 
-https://mukeshsoftware.github.io/Calculator/indax.html
+https://mukeshsoftware.github.io/Calculator/indax.htm
+
